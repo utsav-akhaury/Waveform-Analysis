@@ -2,7 +2,7 @@
 
 C++ codes written using the CERN ROOT framework for waveform analysis of muon pulses acquired from an oscilloscope in .csv format
 
-1) ***CSV_Vector.h*** - Reads .csv file into table, exported as a vector of vector of doubles
+1) ***CSV_Vector.h*** - Reads .csv file into table, exported as a vector of vector of double
 
 2) ***Waveform_Analysis.h*** - Includes functions for performing basic operations (finding peak amplitude, extracting timing information based on leading edge discrimination, integrating voltage for charge computation)
 
