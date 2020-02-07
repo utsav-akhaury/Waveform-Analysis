@@ -6,7 +6,7 @@ C++ codes written using the CERN ROOT framework for waveform analysis of muon pu
 
 2) ***Waveform_Analysis.h*** &nbsp;- &nbsp;Includes functions for performing basic operations (finding peak amplitude, extracting timing information based on leading edge discrimination, integrating voltage for charge computation)
 
-3) ***Main.cpp*** &nbsp;- &nbsp;Inputs the data, performs appropriate thersholding and plots corresponding histograms of amplitude & charge distribution
+3) ***Main.cpp*** &nbsp;- &nbsp;Inputs the data, performs appropriate thresholding and plots corresponding histograms of amplitude & charge distribution
 
 *[Rene Brun and Fons Rademakers, ROOT - An Object Oriented Data Analysis Framework,
 Proceedings AIHENP'96 Workshop, Lausanne, Sep. 1996,
